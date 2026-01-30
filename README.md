@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm ALL-PROGRAMER</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<!--
-**amallouh522-tech/amallouh522-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build full stack applications from database to UI.<br>
+I like clean code, real projects, and understanding how things actually work.
+</p>
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+### Frontend
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- PHP
+- Node.js
+
+### Tools
+- Git & GitHub
+- Linux
+- VS Code
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,git,linux" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ALL-PROGRAMER&show_icons=true&theme=dark" />
+</p>
+
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALL-PROGRAMER&layout=compact&theme=dark" />
+</p>
+## 🚀 Featured Projects
+
+- 🔐 **Auth System**  
+  Full stack authentication with database and sessions.
+
+- 🌐 **Full Stack Web App**  
+  Backend API + Frontend UI + real logic.
+
+
+## 🧠 Currently
+- Improving full stack architecture
+- Building real projects
+- Avoiding tutorial hell
+
+---
+If it looks simple, it probably wasn’t.
