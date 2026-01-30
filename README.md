@@ -23,7 +23,7 @@ I like clean code, real projects, and understanding how things actually work.
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,git,linux" />
 </p>
 
 
@@ -34,9 +34,6 @@ I like clean code, real projects, and understanding how things actually work.
 </p>
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALL-PROGRAMER&layout=compact&theme=dark" />
-</p>
 ## 🚀 Featured Projects
 
 - 🔐 **Auth System**  
