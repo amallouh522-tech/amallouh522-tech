@@ -38,6 +38,7 @@ I like clean code, real projects, and understanding how things actually work.
   <img src="https://github-readme-stats.vercel.app/api?username=amallouh522-tech&show_icons=true&theme=dark" />
 </p>
 
+
 ## 🚀 Featured Projects
 
 - 🔐 **Auth System**  
